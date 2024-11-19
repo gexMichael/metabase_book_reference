@@ -1,0 +1,23 @@
+county_id county county_en
+10014 臺東縣 Taitung County
+10015 花蓮縣 Hualien County
+10005 苗栗縣 Miaoli County
+10009 雲林縣 Yunlin County
+10008 南投縣 Nantou County
+10010 嘉義縣 Chiayi County
+10002 宜蘭縣 Yilan County
+10013 屏東縣 Pingtung County
+10003 桃園縣 Taoyuan County
+09020 金門縣 Kinmen County
+09007 連江縣 Lianjiang County
+10016 澎湖縣 Penghu County
+10007 彰化縣 Changhua County
+10004 新竹縣 Hsinchu County
+64000 高雄市 Kaohsiung City
+65000 新北市 New Taipei City
+66000 臺中市 Taichung City
+63000 臺北市 Taipei City
+67000 臺南市 Tainan City
+10020 嘉義市 Chiayi City
+10017 基隆市 Keelung City
+10018 新竹市 Hsinchu City
